@@ -29,7 +29,7 @@
 6. Test your changes on the `main` branch. Then move your Trello card to "done".
 7. Well done!
   
-Note: Considering the scale of this branch, we are currently using a single main branch instead of the main/dev model.
+Note: Considering the scale of this project, we are currently using a single main branch instead of the main/dev model.
   
 ### How to manage the Trello board
 We divide the project into small pieces and represent them in cards on a Trello board (it is a [Kanban board](https://en.wikipedia.org/wiki/Kanban_board)). A card is like a small task or a user story. We want to use the Trello board in the simplest way possible. The main goal is to make clear what everyone is working on and avoid duplicate efforts.
