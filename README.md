@@ -19,7 +19,7 @@
 2. Create a local branch.
 - Checkout your local main branch. Update your local main branch by `git pull origin main`.
 - `git checkout -b <your-name>/<the-thing-you-want-to-work-on>`
-- Example: `git checkout -b jay/3-create-user-stories-tasks`. You can get <the-thing-you-want-to-work-on> from the last part of the Trello URL when you open a card.
+- Example: `git checkout -b jay/3-create-user-stories-tasks`. You can get the-thing-you-want-to-work-on from the last part of the Trello URL when you open a card.
 3. Work on the local branch using your favorite editor/IDE!
 4. Push to remote branch and open a PR when you finish (or just want some review)
 - `git push origin <your-name>/<the-thing-you-want-to-work-on>`
