@@ -11,7 +11,7 @@
 
 ### The workflow when starting something new
 
-1. Go to the Trello board. ([What is Trello?](https://en.wikipedia.org/wiki/Trello) Contact us to add you to our organization!)
+1. Go to the [Trello board](https://trello.com/b/MwSn5xsP/%E6%9C%AA%E5%91%BD%E5%90%8D). ([What is Trello?](https://en.wikipedia.org/wiki/Trello) Contact us to add you to our organization!)
 - If no card matching what you want to do exists, create one.
 - Check if someone is already working on this.
 - Check if it is ready.
