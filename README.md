@@ -7,11 +7,31 @@
 - Siyuan Du (Steven)
 - Zhengjie Zhou (Jay)
 
+## How to run 
+
+### Backend
+1. Open a new terminal.
+2. Configure credentials in the `server/index.js` file
+3. `cd server`
+4. `npm install`
+5. `npm start`
+6. Check your terminal to see if it's running successfully.<br/> 
+Should be listening on `http://localhost:5051/posts` if Successful.<br/>
+You can go to http://localhost:5051/posts to check. Expect to get an array of existing posts.
+
+### Frontend
+1. Open a new terminal.
+2. `cd client`
+3. `npm install --legacy-peer-deps`<br/>
+if this is the first time you run this project, or if you changed any packages
+4. `npm start`
+5. Go to your localhost link. (typically http://localhost:3000)
+
 ## How to contribute
 
 ### The workflow when starting something new
 
-1. Go to the [Trello](https://trello.com/b/MwSn5xsP/%E6%9C%AA%E5%91%BD%E5%90%8D) board. ([What is Trello?](https://en.wikipedia.org/wiki/Trello) Contact us to add you to our organization!)
+1. Go to the [Trello board](https://trello.com/b/MwSn5xsP/%E6%9C%AA%E5%91%BD%E5%90%8D). ([What is Trello?](https://en.wikipedia.org/wiki/Trello) Contact us to add you to our organization!)
 - If no card matching what you want to do exists, create one.
 - Check if someone is already working on this.
 - Check if it is ready.
