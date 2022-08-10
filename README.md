@@ -13,7 +13,8 @@
 1. Open a new terminal
 2. Configure credentials in the `server/index.js` file
 3. `cd server`
-4. `npm install`
+4. `npm install`<br>
+if this is the first time you run this project, or if you changed any packages
 5. `npm start`
 6. Check your terminal to see if it's running successfully<br/> 
 Should be listening on `http://localhost:5051/posts` if Successful<br/>
