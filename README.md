@@ -17,7 +17,7 @@
 if this is the first time you run this project, or if you changed any packages
 5. `npm start`
 6. Check your terminal to see if it's running successfully<br/> 
-Should be listening on `http://localhost:5051/posts` if Successful<br/>
+Should be listening on `http://localhost:5051/posts` if successful<br/>
 You can go to http://localhost:5051/posts to check. Expect to get an array of existing posts
 
 ### Frontend
@@ -44,7 +44,7 @@ if this is the first time you run this project, or if you changed any packages
 3. Work on the local branch using your favorite editor/IDE!
 4. Push to remote branch and open a PR when you finish (or just want some review)
 - `git push origin <your-name>/<the-thing-you-want-to-work-on>`
-- Go to Github and open a Pull Request (PR for short) for merging your branch to `main`. ([What is a Pull Request?](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests))
+- Go to GitHub and open a Pull Request (PR for short) for merging your branch to `main`. ([What is a Pull Request?](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests))
 - Move your Trello card to "in review".
 5. Address any comments in the PR and merge to `main` if your PR is approved. Use "squash and merge" if your commit history is long and unclean ([More about this](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/about-pull-request-merges)). Move your Trello card to "merged to main".
 6. Test your changes on the `main` branch. Then move your Trello card to "done".
