@@ -22,7 +22,7 @@
 5. Fill in fields in `server/.env`
 - If you want to use your own database, you should [create a MongoDB Atlas cluster](https://www.mongodb.com/basics/create-database) and paste the connection link with password to the `CONNECTION_URL` inside `server/.env` ([details](https://www.mongodb.com/docs/atlas/connect-to-database-deployment/))
 - You can use the free shared plan for your MongoDB Atlas account
-- The connect method should be "Connect your application" when you are getting the DB connection link from Atlas.
+- The connection method should be "Connect your application" when you are getting the DB connection link from Atlas.
 6. `npm start`
 7. Check your terminal to see if it's running successfully
 - Should be listening on `http://localhost:5051/posts` if successful
