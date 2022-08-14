@@ -1,3 +1,5 @@
 # For editors
 .idea
 .vscode
+
+.env
