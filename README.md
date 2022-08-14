@@ -7,16 +7,17 @@
 - Siyuan Du (Steven)
 - Zhengjie Zhou (Jay)
 
-## How to run 
+## How to run locally
 
 ### Backend
 1. Open a new terminal
-2. Configure credentials in the `server/index.js` file
-3. `cd server`
-4. `npm install`<br>
+2. `cd server`
+3. `npm install`<br>
 if this is the first time you run this project, or if you changed any packages
-5. `npm start`
-6. Check your terminal to see if it's running successfully<br/> 
+4. `cp .env.example .env`
+5. Fill in fields in `.env`
+6. `npm start`
+7. Check your terminal to see if it's running successfully<br/> 
 Should be listening on `http://localhost:5051/posts` if successful<br/>
 You can go to http://localhost:5051/posts to check. Expect to get an array of existing posts
 
