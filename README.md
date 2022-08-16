@@ -16,8 +16,7 @@
 ### Backend
 1. Open a new terminal
 2. `cd server`
-3. `npm install`
-- if this is the first time you run this project, or if you changed any packages
+3. `npm install` if this is the first time you run this project, or if you changed any packages
 4. `cp .env.example .env`
 5. Fill in fields in `server/.env`
 - If you want to use your own database, you should [create a MongoDB Atlas cluster](https://www.mongodb.com/basics/create-database) and paste the connection link with password to the `CONNECTION_URL` field inside `server/.env` ([details](https://www.mongodb.com/docs/atlas/connect-to-database-deployment/))
@@ -31,8 +30,7 @@
 ### Frontend
 1. Open a new terminal
 2. `cd client`
-3. `npm install --legacy-peer-deps`
-- if this is the first time you run this project, or if you changed any packages
+3. `npm install --legacy-peer-deps` if this is the first time you run this project, or if you changed any packages
 4. `npm start`
 5. Go to your localhost link (typically http://localhost:3000)
 
